@@ -315,9 +315,7 @@ No third-party Python dependency or package manifest is required by the current 
 │   ├── request_payment_options.csv
 │   ├── requests.csv
 │   ├── sample_requests.csv
-│   ├── output.csv
 │   └── media/images/
-├── output.csv
 ```
 
 `runtime/`, `log.txt`, Python bytecode, and the development output are local/generated artifacts and are excluded by `.gitignore` or the submission packaging process.

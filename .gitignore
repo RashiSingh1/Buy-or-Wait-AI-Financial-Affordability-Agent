@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+log.txt
+
+# Runtime/cache
+runtime/
+__pycache__/
+*.pyc
+
+# Development output
+code/development_output.csv
